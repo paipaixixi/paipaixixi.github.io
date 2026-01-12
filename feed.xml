@@ -3,30 +3,30 @@
     <title>PAIPAI Studio</title>
     <link href="https://paipaixixi.github.io/feed.xml" rel="self" />
     <link href="https://paipaixixi.github.io" />
-    <updated>2026-01-12T20:34:52+01:00</updated>
+    <updated>2026-01-12T21:25:26+01:00</updated>
     <author>
-        <name>paipaixixi</name>
+        <name>Aix F</name>
     </author>
     <id>https://paipaixixi.github.io</id>
 
     <entry>
-        <title>testb</title>
+        <title>Project 1</title>
         <author>
-            <name>paipaixixi</name>
+            <name>Aix F</name>
         </author>
-        <link href="https://paipaixixi.github.io/testb.html"/>
-        <id>https://paipaixixi.github.io/testb.html</id>
-            <category term="test"/>
+        <link href="https://paipaixixi.github.io/project-1.html"/>
+        <id>https://paipaixixi.github.io/project-1.html</id>
+        <media:content url="https://paipaixixi.github.io/media/posts/4/317CD979-F15A-467A-B6A8-4A1EE5A5747B.jpg" medium="image" />
 
-        <updated>2026-01-12T20:33:24+01:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    123
-                ]]>
-            </summary>
+        <updated>2026-01-12T21:25:26+01:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                <p>123</p>
+                    <p><img src="https://paipaixixi.github.io/media/posts/4/317CD979-F15A-467A-B6A8-4A1EE5A5747B.jpg" class="type:primaryImage" alt="1" /></p>
+                
+  <p>
+    
+  </p>
             ]]>
         </content>
     </entry>

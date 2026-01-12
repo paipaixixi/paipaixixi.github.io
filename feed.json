@@ -5,24 +5,24 @@
     "home_page_url": "https://paipaixixi.github.io",
     "feed_url": "https://paipaixixi.github.io/feed.json",
     "user_comment": "",
+    "icon": "https://paipaixixi.github.io/media/website/pp.png",
     "author": {
-        "name": "paipaixixi"
+        "name": "Aix F"
     },
     "items": [
         {
-            "id": "https://paipaixixi.github.io/testb.html",
-            "url": "https://paipaixixi.github.io/testb.html",
-            "title": "testb",
-            "summary": "123",
-            "content_html": "<p>123</p>",
+            "id": "https://paipaixixi.github.io/project-1.html",
+            "url": "https://paipaixixi.github.io/project-1.html",
+            "title": "Project 1",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "image": "https://paipaixixi.github.io/media/posts/4/317CD979-F15A-467A-B6A8-4A1EE5A5747B.jpg",
             "author": {
-                "name": "paipaixixi"
+                "name": "Aix F"
             },
             "tags": [
-                   "test"
             ],
-            "date_published": "2026-01-12T20:33:24+01:00",
-            "date_modified": "2026-01-12T20:34:52+01:00"
+            "date_published": "2026-01-12T21:25:26+01:00",
+            "date_modified": "2026-01-12T21:25:26+01:00"
         }
     ]
 }
