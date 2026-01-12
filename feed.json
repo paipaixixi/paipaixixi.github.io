@@ -11,6 +11,34 @@
     },
     "items": [
         {
+            "id": "https://paipaixixi.github.io/project-3.html",
+            "url": "https://paipaixixi.github.io/project-3.html",
+            "title": "Project 3",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "image": "https://paipaixixi.github.io/media/posts/6/9DB156F0-233C-4932-B223-408BA393C924.jpg",
+            "author": {
+                "name": "Aix F"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-01-12T21:31:55+01:00",
+            "date_modified": "2026-01-12T21:32:10+01:00"
+        },
+        {
+            "id": "https://paipaixixi.github.io/project-2.html",
+            "url": "https://paipaixixi.github.io/project-2.html",
+            "title": "Project 2",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "image": "https://paipaixixi.github.io/media/posts/5/740208A7-93BE-4C9B-9FC5-63A99219A2E5.jpg",
+            "author": {
+                "name": "Aix F"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-01-12T21:31:19+01:00",
+            "date_modified": "2026-01-12T21:31:44+01:00"
+        },
+        {
             "id": "https://paipaixixi.github.io/project-1.html",
             "url": "https://paipaixixi.github.io/project-1.html",
             "title": "Project 1",
