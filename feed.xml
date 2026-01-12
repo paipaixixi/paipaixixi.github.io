@@ -3,30 +3,55 @@
     <title>PAIPAI Studio</title>
     <link href="https://paipaixixi.github.io/feed.xml" rel="self" />
     <link href="https://paipaixixi.github.io" />
-    <updated>2026-01-12T23:01:01+01:00</updated>
+    <updated>2026-01-13T00:12:58+01:00</updated>
     <author>
         <name>Aix F</name>
     </author>
     <id>https://paipaixixi.github.io</id>
 
     <entry>
-        <title>Project 3</title>
+        <title>Photo 3</title>
         <author>
             <name>Aix F</name>
         </author>
-        <link href="https://paipaixixi.github.io/project-3.html"/>
-        <id>https://paipaixixi.github.io/project-3.html</id>
-        <media:content url="https://paipaixixi.github.io/media/posts/6/9DB156F0-233C-4932-B223-408BA393C924-2.jpg" medium="image" />
+        <link href="https://paipaixixi.github.io/photo-3.html"/>
+        <id>https://paipaixixi.github.io/photo-3.html</id>
+        <media:content url="https://paipaixixi.github.io/media/posts/10/D7A07217-FCE2-4E50-938E-810B42B078CB-2.jpg" medium="image" />
+            <category term="photograph"/>
 
-        <updated>2026-01-12T21:31:55+01:00</updated>
+        <updated>2026-01-12T23:13:47+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://paipaixixi.github.io/media/posts/6/9DB156F0-233C-4932-B223-408BA393C924-2.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://paipaixixi.github.io/media/posts/10/D7A07217-FCE2-4E50-938E-810B42B078CB-2.jpg" class="type:primaryImage" alt="" /></p>
                 
-  <p>
-    
-  </p>
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://paipaixixi.github.io/media/posts/10/D7A07217-FCE2-4E50-938E-810B42B078CB.jpg" height="1537" width="2214" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://paipaixixi.github.io/media/posts/10/responsive/D7A07217-FCE2-4E50-938E-810B42B078CB-xs.jpg 384w ,https://paipaixixi.github.io/media/posts/10/responsive/D7A07217-FCE2-4E50-938E-810B42B078CB-sm.jpg 600w ,https://paipaixixi.github.io/media/posts/10/responsive/D7A07217-FCE2-4E50-938E-810B42B078CB-md.jpg 768w ,https://paipaixixi.github.io/media/posts/10/responsive/D7A07217-FCE2-4E50-938E-810B42B078CB-lg.jpg 1200w ,https://paipaixixi.github.io/media/posts/10/responsive/D7A07217-FCE2-4E50-938E-810B42B078CB-xl.jpg 1600w">
+      
+    </figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Photo 1</title>
+        <author>
+            <name>Aix F</name>
+        </author>
+        <link href="https://paipaixixi.github.io/photo-1.html"/>
+        <id>https://paipaixixi.github.io/photo-1.html</id>
+        <media:content url="https://paipaixixi.github.io/media/posts/8/0F998ABF-2879-442D-92F9-B262201E4BD8-2.jpg" medium="image" />
+            <category term="photograph"/>
+
+        <updated>2026-01-12T23:12:03+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://paipaixixi.github.io/media/posts/8/0F998ABF-2879-442D-92F9-B262201E4BD8-2.jpg" class="type:primaryImage" alt="" /></p>
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://paipaixixi.github.io/media/posts/8/0F998ABF-2879-442D-92F9-B262201E4BD8.jpg" height="1536" width="2302" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://paipaixixi.github.io/media/posts/8/responsive/0F998ABF-2879-442D-92F9-B262201E4BD8-xs.jpg 384w ,https://paipaixixi.github.io/media/posts/8/responsive/0F998ABF-2879-442D-92F9-B262201E4BD8-sm.jpg 600w ,https://paipaixixi.github.io/media/posts/8/responsive/0F998ABF-2879-442D-92F9-B262201E4BD8-md.jpg 768w ,https://paipaixixi.github.io/media/posts/8/responsive/0F998ABF-2879-442D-92F9-B262201E4BD8-lg.jpg 1200w ,https://paipaixixi.github.io/media/posts/8/responsive/0F998ABF-2879-442D-92F9-B262201E4BD8-xl.jpg 1600w">
+      
+    </figure>
             ]]>
         </content>
     </entry>
@@ -38,6 +63,7 @@
         <link href="https://paipaixixi.github.io/project-2.html"/>
         <id>https://paipaixixi.github.io/project-2.html</id>
         <media:content url="https://paipaixixi.github.io/media/posts/5/740208A7-93BE-4C9B-9FC5-63A99219A2E5-2.jpg" medium="image" />
+            <category term="portfolio"/>
 
         <updated>2026-01-12T21:31:19+01:00</updated>
             <summary></summary>
@@ -58,17 +84,19 @@
         </author>
         <link href="https://paipaixixi.github.io/project-1.html"/>
         <id>https://paipaixixi.github.io/project-1.html</id>
-        <media:content url="https://paipaixixi.github.io/media/posts/4/317CD979-F15A-467A-B6A8-4A1EE5A5747B-2.jpg" medium="image" />
+        <media:content url="https://paipaixixi.github.io/media/posts/4/A7BADE06-7E66-47F3-8BB1-60020CEF04CD.jpg" medium="image" />
+            <category term="portfolio"/>
 
         <updated>2026-01-12T21:25:26+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://paipaixixi.github.io/media/posts/4/317CD979-F15A-467A-B6A8-4A1EE5A5747B-2.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://paipaixixi.github.io/media/posts/4/A7BADE06-7E66-47F3-8BB1-60020CEF04CD.jpg" class="type:primaryImage" alt="" /></p>
                 
-  <p>
-    
-  </p>
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://paipaixixi.github.io/media/posts/4/317CD979-F15A-467A-B6A8-4A1EE5A5747B.jpg" height="1535" width="2302" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://paipaixixi.github.io/media/posts/4/responsive/317CD979-F15A-467A-B6A8-4A1EE5A5747B-xs.jpg 384w ,https://paipaixixi.github.io/media/posts/4/responsive/317CD979-F15A-467A-B6A8-4A1EE5A5747B-sm.jpg 600w ,https://paipaixixi.github.io/media/posts/4/responsive/317CD979-F15A-467A-B6A8-4A1EE5A5747B-md.jpg 768w ,https://paipaixixi.github.io/media/posts/4/responsive/317CD979-F15A-467A-B6A8-4A1EE5A5747B-lg.jpg 1200w ,https://paipaixixi.github.io/media/posts/4/responsive/317CD979-F15A-467A-B6A8-4A1EE5A5747B-xl.jpg 1600w">
+      
+    </figure>
             ]]>
         </content>
     </entry>
