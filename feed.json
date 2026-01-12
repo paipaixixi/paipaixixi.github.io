@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "PAIPAI Studio",
+    "description": "",
+    "home_page_url": "https://paipaixixi.github.io",
+    "feed_url": "https://paipaixixi.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "paipaixixi"
+    },
+    "items": [
+        {
+            "id": "https://paipaixixi.github.io/testb.html",
+            "url": "https://paipaixixi.github.io/testb.html",
+            "title": "testb",
+            "summary": "123",
+            "content_html": "<p>123</p>",
+            "author": {
+                "name": "paipaixixi"
+            },
+            "tags": [
+                   "test"
+            ],
+            "date_published": "2026-01-12T20:33:24+01:00",
+            "date_modified": "2026-01-12T20:34:52+01:00"
+        }
+    ]
+}

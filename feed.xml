@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>PAIPAI Studio</title>
+    <link href="https://paipaixixi.github.io/feed.xml" rel="self" />
+    <link href="https://paipaixixi.github.io" />
+    <updated>2026-01-12T20:34:52+01:00</updated>
+    <author>
+        <name>paipaixixi</name>
+    </author>
+    <id>https://paipaixixi.github.io</id>
+
+    <entry>
+        <title>testb</title>
+        <author>
+            <name>paipaixixi</name>
+        </author>
+        <link href="https://paipaixixi.github.io/testb.html"/>
+        <id>https://paipaixixi.github.io/testb.html</id>
+            <category term="test"/>
+
+        <updated>2026-01-12T20:33:24+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    123
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>123</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
